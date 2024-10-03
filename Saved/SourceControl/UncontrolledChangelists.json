@@ -5,6 +5,30 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/MidtermProject1/MidtermEclipseGame/Content/Levels/M_TestLevel.umap",
+				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/MidtermProject1/MidtermEclipseGame/Content/Levels/M_MainMenu.umap",
+				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/MidtermProject1/MidtermEclipseGame/Content/Levels/M_PrototypeMonster.umap",
+				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/MidtermProject1/MidtermEclipseGame/Content/Levels/Programmers/Marwan/M_PrototypeMonster.umap",
+				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/MidtermProject1/MidtermEclipseGame/Content/Levels/Programmers/Marwan/TS_PrototypeMonsterLevel.uasset",
+				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/MidtermProject1/MidtermEclipseGame/Content/Levels/Programmers/Marwan/door_Sprite.uasset",
+				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/MidtermProject1/MidtermEclipseGame/Content/Levels/Programmers/Justin/PrototypeBlueprints/BP_HidingPlace.uasset",
+				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/MidtermProject1/MidtermEclipseGame/Content/Levels/Programmers/Marwan/payer-run2.uasset",
+				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/MidtermProject1/MidtermEclipseGame/Content/Levels/Programmers/Marwan/T_MonsterRunSheet.uasset",
+				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/MidtermProject1/MidtermEclipseGame/Content/Levels/Programmers/Marwan/FB_MonsterRun.uasset",
+				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/MidtermProject1/MidtermEclipseGame/Content/Levels/Programmers/Marwan/BP_Monster.uasset",
+				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/MidtermProject1/MidtermEclipseGame/Content/Levels/Programmers/Marwan/Sprites/door_Sprite.uasset",
+				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/MidtermProject1/MidtermEclipseGame/Content/Levels/Programmers/Marwan/Flipbooks/FB_MonsterRun.uasset",
+				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/MidtermProject1/MidtermEclipseGame/Content/Levels/Programmers/Marwan/Textures/T_MonsterRunSheet.uasset",
+				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/MidtermProject1/MidtermEclipseGame/Content/Levels/Programmers/Marwan/Sprites/T_MonsterRunSheet_Sprite_0.uasset",
+				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/MidtermProject1/MidtermEclipseGame/Content/Levels/Programmers/Marwan/Sprites/T_MonsterRunSheet_Sprite_1.uasset",
+				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/MidtermProject1/MidtermEclipseGame/Content/Levels/Programmers/Marwan/Sprites/T_MonsterRunSheet_Sprite_2.uasset",
+				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/MidtermProject1/MidtermEclipseGame/Content/Levels/Programmers/Marwan/Sprites/T_MonsterRunSheet_Sprite_3.uasset",
+				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/MidtermProject1/MidtermEclipseGame/Content/Levels/Programmers/Marwan/Sprites/T_MonsterRunSheet_Sprite_4.uasset",
+				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/MidtermProject1/MidtermEclipseGame/Content/Levels/Programmers/Marwan/Sprites/T_MonsterRunSheet_Sprite_5.uasset",
+				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/MidtermProject1/MidtermEclipseGame/Content/Levels/Programmers/Marwan/Blueprints/BP_Monster.uasset",
+				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/MidtermProject1/MidtermEclipseGame/Content/Levels/Programmers/Marwan/Blueprints/BP_MonsterAIController.uasset",
+				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/MidtermProject1/MidtermEclipseGame/Content/Levels/Programmers/Justin/PrototypeBlueprints/BP_Player.uasset",
+				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/MidtermProject1/MidtermEclipseGame/Content/Levels/Programmers/Marwan/Widgets/W_MainMenu.uasset",
 				"C:/Users/justi/OneDrive/Desktop/MidtermEclipseGame/Content/Levels/M_TestLevel.umap",
 				"C:/Users/justi/OneDrive/Desktop/MidtermEclipseGame/Content/Levels/Prototype.umap",
 				"C:/Users/justi/OneDrive/Desktop/MidtermEclipseGame/Content/Levels/Programmers/Justin/GameMode.uasset",
@@ -191,9 +215,7 @@
 				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/MidtermProject1/MidtermEclipseGame/Content/__ExternalActors__/Levels/M_TestLevel/9/LH/K72Z2IHFZTZMSPWK45IA0H.uasset",
 				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/MidtermProject1/MidtermEclipseGame/Content/__ExternalActors__/Levels/M_TestLevel/A/VJ/QUZWR7B7D9B5BT4Z4UIWTD.uasset",
 				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/MidtermProject1/MidtermEclipseGame/Content/__ExternalActors__/Levels/M_TestLevel/3/BY/YSD52Y1AG4A2OY9K7G0VFR.uasset",
-				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/MidtermProject1/MidtermEclipseGame/Content/__ExternalActors__/Levels/M_TestLevel/3/EF/JRJECAUBUTWJREYWV9JZUH.uasset",
-				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/MidtermProject1/MidtermEclipseGame/Content/Levels/M_TestLevel.umap",
-				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/MidtermProject1/MidtermEclipseGame/Content/Levels/M_MainMenu.umap"
+				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/MidtermProject1/MidtermEclipseGame/Content/__ExternalActors__/Levels/M_TestLevel/3/EF/JRJECAUBUTWJREYWV9JZUH.uasset"
 			]
 		}
 	]
